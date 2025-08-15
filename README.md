@@ -60,7 +60,7 @@ I love building scalable, production-grade systems and turning complex ideas int
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-📧 **in/akash-kumar-7951a2126**
+📧 **![Akash Kumar](https://www.linkedin.com/in/akash-kumar-7951a2126/)**
 
 ---
 
