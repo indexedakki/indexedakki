@@ -1,4 +1,4 @@
-# Hi there, I'm Akash 👋 
+# Hi there, I'm Akash 👋
 
 I’m a **Full Stack Developer** with primary language as **Python** and **JavaScript** specializing in **microservice architectures**, **event-driven systems**, **stateless services**, and **machine learning solutions**.  
 I love building scalable, production-grade systems and turning complex ideas into working software.
