@@ -1,7 +1,9 @@
 # Hi there, I'm Akash 👋
 
-I’m a **Full Stack Developer** with primary language as **Python** and **JavaScript** specializing in **microservice architectures**, **event-driven systems**, **stateless services**, and **machine learning solutions**.  
-I love building scalable, production-grade systems and turning complex ideas into working software.
+🚀 AI/ML Engineer | GenAI Developer | Full Stack Engineer
+
+I specialize in building production-grade AI systems, LLM-powered applications, and scalable backend architectures.
+My work focuses on turning complex ML/AI ideas into real-world, enterprise-ready systems—especially in pharma and MedTech domains.
 
 ---
 
