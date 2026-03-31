@@ -31,6 +31,10 @@ My work focuses on turning complex ML/AI ideas into real-world, enterprise-ready
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 
+**LLM / GenAI:**  
+![Langchain](https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green)
+![Claude](https://img.shields.io/badge/Claude_Code-555?logo=claude)
+
 **ML / CV:**  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
