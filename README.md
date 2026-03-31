@@ -1,6 +1,6 @@
 # Hi there, I'm Akash 👋
 
-🚀 AI/ML Engineer | GenAI Developer | Full Stack Engineer
+**🚀 AI/ML Engineer | GenAI Developer | Full Stack Engineer**
 
 I specialize in building production-grade AI systems, LLM-powered applications, and scalable backend architectures.
 My work focuses on turning complex ML/AI ideas into real-world, enterprise-ready systems—especially in pharma and MedTech domains.
